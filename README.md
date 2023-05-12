@@ -8,6 +8,7 @@ In the console, you can highlight the text you want to search. If you right-clic
  
 </details>
  
+ <br>
  
 <details>
 <summary><h3>0.2-BETA</h3></summary>
