@@ -12,5 +12,9 @@ In the console, you can highlight the text you want to search. If you right-clic
 <summary><h3>0.2-BETA</h3></summary>
 add a window for perplexity.ai for comfortable use 
 <img align="left" width="800" src="https://github.com/chiratsxki/ProjectLeyla/assets/107635322/387caf42-321b-4939-9444-01d793a7accf">
+<hr>
+<img align="left" width="800" src="https://github.com/chiratsxki/ProjectLeyla/assets/107635322/95bb1f71-754c-4d2e-9b5d-4bb1fed97301">
 </details>
+
+
 
