@@ -15,7 +15,8 @@ Add a window for perplexity.ai for comfortable use. If you right-click on the se
  <br><br>
  
 <img align="left" width="850" src="https://github.com/chiratsxki/ProjectLeyla/assets/107635322/d1da443c-f4e6-4ac7-abeb-68838990930a">
- <br>
+ <br><br><br><br><br><br><br>
+ 
  <hr>
 <img align="left" width="850" src="https://github.com/chiratsxki/ProjectLeyla/assets/107635322/95bb1f71-754c-4d2e-9b5d-4bb1fed97301">
 </details>
