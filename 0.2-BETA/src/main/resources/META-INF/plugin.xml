@@ -1,0 +1,51 @@
+
+<idea-plugin>
+
+    <id>com.chiratsxki.ProjectLeyla</id>
+
+    <name>Project Leyla</name>
+
+    <vendor email="maximusabidjanov@gmail.com" url="https://www.yourcompany.com">chiratsxki</vendor>
+
+
+    <description><![CDATA[
+    Help finding information on the site www.perplexity.ai<br>
+
+  ]]></description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+
+    </extensions>
+
+    <actions>
+        <action
+                id="StackOverflow.AskQuestion.ToolsMenu"
+                icon="/icons/myIcon.png"
+                class="com.chiratsxki.projectleyla.AskQuestionAction"
+                text="Ask Question on Stack Overflow"
+                description="Ask a Question on perplexity.ai">
+            <add-to-group group-id="ToolsMenu" anchor="last"/>
+        </action>
+        <action
+                id="StackOverflow.Search.Editor"
+                icon="/icons/myIcon.png"
+                class="com.chiratsxki.projectleyla.SearchAction"
+                text="Search on perplexity.ai"
+                description="Search on perplexity.ai">
+            <add-to-group group-id="EditorPopupMenu" anchor="last"/>
+        </action>
+        <action
+                id="StackOverflow.Search.Console"
+                icon="/icons/myIcon.png"
+                class="com.chiratsxki.projectleyla.SearchAction"
+                text="Search on perplexity.ai"
+                description="Search on perplexity.ai">
+            <add-to-group group-id="ConsoleEditorPopupMenu" anchor="last"/>
+        </action>
+
+    </actions>
+
+
+</idea-plugin>
