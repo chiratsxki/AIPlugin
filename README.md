@@ -1,4 +1,4 @@
-# Project Leyla
+# AI Plugin 
 
 The purpose of this plugin is to help beginners understand and view code and also find out the meaning of errors in the terminal.  
 
